@@ -1,1 +1,1 @@
-web: cd 01basicvite && npm install && npm run build
+web: cd 01basicvite && npm install && npm run build && npm run preview
