@@ -1,1 +1,1 @@
-web: cd 01basicvite && npm run preview
+web: cd 01basicvite && npm run preview -- --host 0.0.0.0 --port 4173
